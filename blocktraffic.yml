@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo yum install netstat -y
+sudo systemctl status netstat
+echo "hello"
